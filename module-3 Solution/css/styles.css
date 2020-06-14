@@ -9,16 +9,7 @@ body {
 #header-nav {
   border-radius: 0;
   background-color: #16F5EC;
-  border: 1px solid black; 
-  height: 6vw;
-}
-#header-nav > .container{
-	margin-top: 1vw;
-}
-@media (max-width: 1160px){
-	#header-nav > .container{
-	margin-top: 0.6vw;
-}
+  border: 1px solid black;
 }
 
 #header-nav h1{
